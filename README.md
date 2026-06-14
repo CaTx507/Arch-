@@ -1,4 +1,4 @@
-# Octo RPG 🗡️🟥
+# Arché RPG 🗡️🟥
 
 **aRPG 2D** con estética **HD-2D** (inspirado en *Octopath Traveler*) y combate
 por turnos **dinámico** al estilo de *Darkest Dungeon*.
