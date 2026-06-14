@@ -1,0 +1,9 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" fill="#244018"/>
+  <!-- Espada estilizada (dorada) -->
+  <polygon points="64,20 72,30 72,80 64,90 56,80 56,30" fill="#e0b341"/>
+  <!-- Guarda roja -->
+  <rect x="44" y="80" width="40" height="10" fill="#c7553f"/>
+  <!-- Empuñadura -->
+  <rect x="60" y="90" width="8" height="18" fill="#6b4a2b"/>
+</svg>
